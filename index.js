@@ -21,6 +21,6 @@ app.get('/', (req, res) => { //req request, res response
 })
 */
 
-app.listen(4000, () => {
+/* app.listen(4000, () => {
     console.log('el servidor esta corriendo perfectamente')
-})
+}) */
