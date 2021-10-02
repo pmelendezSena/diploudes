@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "scripts": {
         "ng": "ng",
-        "start": "index.js",
-        "build": "ng build --prod",
+        "start": "ng index.js",
+        "build": "ng build",
         "watch": "ng build",
         "test": "ng test",
         "dev": "nodemon ."
