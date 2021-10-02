@@ -4,8 +4,8 @@
     "scripts": {
         "ng": "ng",
         "start": "index.html",
-        "build": "ng build --prod",
-        "watch": "ng build --prod",
+        "build": "ng build",
+        "watch": "ng build",
         "test": "ng test",
         "dev": "nodemon ."
     },
