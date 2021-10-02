@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "scripts": {
         "ng": "ng",
-        "start": "./src/index.html",
+        "start": "index.js",
         "build": "ng build --prod",
         "watch": "ng build",
         "test": "ng test",
@@ -46,7 +46,7 @@
         "nodemon": "^2.0.13"
     },
     "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.",
-    "main": "index.js",
+    "main": "./src/index.html",
     "author": "",
     "license": "ISC"
 }
